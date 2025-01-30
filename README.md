@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hello, I'm Charishma Karri! 👋</h1>
+<h1 align="center">✨ Hey, I'm Charishma! 👋</h1>
 
 
 
