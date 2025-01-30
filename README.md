@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hello, I'm Charishma Karri! 👋</h1>
-![Alt text](https://github.com/user-attachments/assets/201f8fe3-a34c-4ec5-bde8-4c002e354223)
+
 
 
 ---
