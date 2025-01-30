@@ -27,7 +27,7 @@ I'm a passionate developer interested in building innovative solutions. Currentl
 🌐 **HTML** | 🎨 **CSS** | ⚡ **JavaScript (JS)** | 🎨 **React.js** | 🎭 **Bootstrap, Tailwind** | 🎨 **Figma**  
 
 ### **🛠 Backend & Databases**
-🐘 **PostgreSQL** | 🔥 **Firebase** | 🐍 **Flask**  
+🐘 **PostgreSQL** |  🐍 **Flask**  
 
 ### **📊 Machine Learning & AI**
 🤖 **Scikit-learn** | 📊 **Pandas, NumPy** | 🧠 **TensorFlow & Neural Networks**  
@@ -38,9 +38,9 @@ I'm a passionate developer interested in building innovative solutions. Currentl
 
 ## 🔢 **Data Structures & Algorithms (DSA)**
 🔹 **Proficient in solving problems on:**  
-✔ **LeetCode** 🏆 **(Rating: 1200+)**  
-✔ **CodeChef** 🍜 **(3-star coder)**  
-✔ **HackerRank** 🌟 **(4-star in Java, 5-star in C, SQL)**  
+✔ **LeetCode**  
+
+✔ **HackerRank** 🌟 **(4-star in Java, SQL)**  
 
 📌 **Core DSA Topics:**  
 ✅ **Arrays & Strings**  
