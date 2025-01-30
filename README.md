@@ -84,17 +84,6 @@ I'm a passionate developer interested in building innovative solutions. Currentl
 [![GitHub](https://img.shields.io/badge/GitHub-Charishma116-black?style=for-the-badge&logo=github)](https://github.com/Charishma116)  
 📧 Email: charishma497@gmail.com  
 
-📌 **Cite This Paper:**
-```bibtex
-@article{charishma2024breastcancer,
-  author    = {J.N.V.R. Swarup Kumar, Harshitha Lekkala, Charishma Karri, Saaketh Choudarapu, Naga Srihitha Vatsavayi},
-  title     = {Early Breast Cancer Detection Using Nano Sensors and Machine Learning},
-  journal   = {2024 4th International Conference on Intelligent Technologies (CONIT)},
-  year      = {2024},
-  publisher = {IEEE},
-  doi       = {10.1109/CONIT61985.2024.10627465}
-
-}
 
 
 
