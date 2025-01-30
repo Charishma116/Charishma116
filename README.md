@@ -96,18 +96,5 @@
   doi       = {10.1109/CONIT61985.2024.10627465}
 }
 
-### **🤝 Contribution & Open Source**
-💡 Interested in contributing?
-Fork this repository, create a feature branch, and submit a pull request!
 
-For discussions, suggestions, or reporting issues, open a GitHub Issue 🚀
-
-### **📞 Contact Me**
-📧 Email: charishma497@gmail.com
-🔗 GitHub: github.com/Charishma116
-🔗 LinkedIn: linkedin.com/in/charishma497
-
-###🎯 Fun Fact:
-💡 I love working on projects that bridge the gap between technology & real-world impact! 🚀
-📌 Looking for Collaborations? Let’s build something awesome together!
 
