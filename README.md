@@ -1,10 +1,10 @@
 <h1 align="center">✨ Hello, I'm Charishma Karri! 👋</h1>
 
 <p align="center">
-  <img src="https://your-image-link-here" width="100%" alt="Profile Banner">
+  <img src="https://![image](https://github.com/user-attachments/assets/201f8fe3-a34c-4ec5-bde8-4c002e354223)
+" width="100%" alt="Profile Banner">
 </p>
-*(![image](https://github.com/user-attachments/assets/0d7031da-46c1-431c-b193-25f0e8bfe239)
-)*
+
 
 ---
 
