@@ -11,8 +11,9 @@ I'm a passionate developer interested in building innovative solutions. Currentl
 🔍 Always eager to **learn new technologies and collaborate** on exciting projects!  
 
 ## 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/Java-Intermediate-orange?style=for-the-badge&logo=java) ![Python](https://img.shields.io/badge/Python-Basic-blue?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-Basic-A8B9CC?style=for-the-badge&logo=c) ![HTML5](https://img.shields.io/badge/HTML5-Basic-E34F26?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-Basic-1572B6?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-Basic-F7DF1E?style=for-the-badge&logo=javascript) ![Bootstrap](https://img.shields.io/badge/Bootstrap-Basic-7952B3?style=for-the-badge&logo=bootstrap) ![React](https://img.shields.io/badge/React-Basic-61DAFB?style=for-the-badge&logo=react) ![SQL](https://img.shields.io/badge/SQL-Basic-4479A1?style=for-the-badge&logo=mysql) ![Figma](https://img.shields.io/badge/Figma-Basic-F24E1E?style=for-the-badge&logo=figma) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Concepts-FF6F00?style=for-the-badge&logo=tensorflow)
+![Java](https://img.shields.io/badge/Java-Intermediate-orange?style=for-the-badge&logo=java) ![Python](https://img.shields.io/badge/Python-Basic-blue?style=for-the-badge&logo=python) ![C](https://img.shields.io/badge/C-Basic-A8B9CC?style=for-the-badge&logo=c) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript) ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql) ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow)
 
 🛠 **Currently working on:** `Machine Learning Projects` 🧠, `Full-Stack Web Apps` 🌍  
 💬 **Ask me about:** `React.js` ⚛, `Java` ☕, `Python` 🐍, `Machine Learning` 🤖  
