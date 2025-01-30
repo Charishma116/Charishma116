@@ -2,7 +2,8 @@
 
 <p align="center">
   <img src="https://![image](https://github.com/user-attachments/assets/201f8fe3-a34c-4ec5-bde8-4c002e354223)
-" width="100%" alt="Profile Banner">
+" width="100%" alt="![image](https://github.com/user-attachments/assets/6cbfdefd-4a92-420f-9ec7-54a3d1bb9e7a)
+">
 </p>
 
 
